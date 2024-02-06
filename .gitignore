@@ -1,0 +1,26 @@
+# Ignorer les fichiers et répertoires générés par le système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration spécifiques à votre éditeur ou IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de dépendances générés par votre gestionnaire de packages
+node_modules/
+vendor/
+
+# Ignorer les fichiers de build et de compilation
+/build/
+/dist/
+/out/
+
+# Ignorer les fichiers de logs et de données temporaires
+*.log
+*.log.*
+*.tmp
+
+# Ignorer les fichiers sensibles contenant des informations d'authentification
+secrets.json
+config.ini
+
