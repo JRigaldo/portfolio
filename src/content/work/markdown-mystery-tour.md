@@ -8,28 +8,25 @@ description: |
 tags:
   - Design
   - Dev
-  - User Testing
+  - Integration
 ---
 
-## Level-two heading
+<div style="display:flex; justify-content: center; margin-top: 1rem; margin-bottom: 3rem;">
+<a style="background-color: #7611a6; text-decoration: none; padding: 0.5rem 1rem; color: #ffffff; border-radius: 999rem;" href="https://idmobile.ch" target="_blank">idmobile.ch</a>
+</div>
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+## IDMobile website
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+> Design, integration into Symfony from scratch
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+En tant que développeur web chez ID Mobile, j'ai eu l'opportunité de concevoir et de mettre en œuvre un site de marketing complet pour promouvoir les produits de l'entreprise. Mon rôle principal a été de synthétiser tous leurs produits et services en différentes pages web, en mettant l'accent sur une expérience utilisateur optimale.
 
-### Level-three heading
+### Designs and Interfaces
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Pour ce faire, j'ai consacré beaucoup de temps à la conception des interfaces utilisateur, en m'assurant qu'elles étaient à la fois attrayantes visuellement et conviviales. J'ai également intégré ces designs de manière fluide dans le site web, en veillant à ce que chaque page soit cohérente avec la marque et facile à naviguer.
 
-### Level-three heading
+### PHP, Twig, Gsap
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+L'un des aspects techniques de ce projet était l'utilisation du framework Symfony 5 pour le développement du site. Symfony m'a permis de structurer efficacement le code et d'assurer la robustesse et la sécurité de l'application.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Par ailleurs, j'ai utilisé Gsap pour animer certains éléments du site, ajoutant ainsi une dimension dynamique et engageante à l'expérience utilisateur. Ces animations ont contribué à rendre le site plus attrayant et à capter l'attention des visiteurs dès leur arrivée.
