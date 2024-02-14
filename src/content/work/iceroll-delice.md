@@ -1,6 +1,6 @@
 ---
 title: Iceroll Délice app
-publishDate: 2024-01-02 00:00:00
+publishDate: 2024-10-05 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Iceroll Délice is a unique artisanal ice cream brand.
 description: |
